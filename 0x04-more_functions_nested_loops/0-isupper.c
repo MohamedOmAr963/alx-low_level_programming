@@ -1,6 +1,7 @@
 #include "main.h"
 
-/** _isupper - check if c is upper
+/**
+  *_isupper - check if c is upper
   *
   * @c: input for alphabet
   *
@@ -13,4 +14,4 @@ int _isupper(int c)
 		return (1);
 	else
 		return (0);
-} 
+}
