@@ -1,4 +1,4 @@
-ALX_ENG#!/bin/bash
+#!/bin/bash
 git add .
-git commit -m "Done"
+git commit -m "ALX_ENG"
 git push
